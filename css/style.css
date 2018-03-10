@@ -136,14 +136,14 @@
     left:50%;
     animation: fade 8s infinite linear;
   }
-  drop:last-child{
+  .drop:last-child{
     top:75%;
     left:35%;
     width:40px;
     opacity:1;
     animation: fade 6s infinite linear;
   }
-  drop:nth-child(2){
+  .drop:nth-child(2){
     top:95%;
     left:52%;
     width:33px;
