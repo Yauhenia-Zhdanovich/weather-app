@@ -97,11 +97,6 @@
     font-size:inherit;
     cursor:pointer;
   }
-  button,
-  button:active,
-  button:focus {
-      outline: none;
-  }
   footer {
     padding: 20px;
     background: #16183b;
